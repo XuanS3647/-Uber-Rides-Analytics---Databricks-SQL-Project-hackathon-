@@ -2,7 +2,7 @@
 ## 📋 Project Overview
 A comprehensive data analytics project analyzing Uber rides data from the NCR (National Capital Region) region. This project demonstrates end-to-end data analysis using Databricks SQL - from data cleaning and preparation to advanced analytics and business intelligence reporting.
 
-Dataset: [102,000+ ride bookings with detailed information on bookings, cancellations, revenue, customer behavior, and operational metrics.](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard/data)
+Dataset: https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard/data
 
 ## 🎯 Business Objectives
 Cancellation Analysis: Identify patterns and root causes of ride cancellations
